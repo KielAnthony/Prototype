@@ -1,0 +1,20 @@
+[unselect]
+{
+    user-select: none;
+    pointer-events: none;
+}
+
+[ctr] { text-align: center; }
+
+[brk] {
+    text-shadow: 0 0 10px black;
+    background-color: royalblue;
+    color: white;
+}
+
+[fit-sched]
+{
+    text-shadow: 0 0 10px black;
+    color: red;
+    background: rgba(0, 0, 0, 0.2);
+}
